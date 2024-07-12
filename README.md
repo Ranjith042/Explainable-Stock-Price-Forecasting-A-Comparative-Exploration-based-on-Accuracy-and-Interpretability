@@ -1,0 +1,2 @@
+# Explainable-Stock-Price-Forecasting-A-Comparative-Exploration-based-on-Accuracy-and-Interpretability
+Implemented time series forecasting with Facebook Prophet model, achieving high accuracy with 0.48% SMAPE. Built fuzzy logic system using Mamdani approach for transparency into predictions with SMAPE of 2.51%. Evaluated model accuracy using SMAPE, MPE and visualized model fit, residuals to compare two models’ performance.
